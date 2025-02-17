@@ -86,7 +86,7 @@ Example:
     
 -   **Cookies** store small pieces of data (up to 4KB) and can have an expiration date. Cookies are sent with every HTTP request, making them useful for authentication (e.g., storing login sessions).
 - --
-- 12. **What are Web Components in HTML?**  
+12. **What are Web Components in HTML?**  
 💡 Web Components allow developers to create reusable custom elements in HTML.  
 - **Custom Elements** – Define new HTML tags.  
 - **Shadow DOM** – Encapsulated styles/scripts.  
